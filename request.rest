@@ -1,0 +1,5 @@
+POST http://localhost:3000/api/authors
+Content-Type: application/json
+{
+    "name" : "Bubadibako",
+}
